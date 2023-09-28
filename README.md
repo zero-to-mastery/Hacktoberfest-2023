@@ -7,9 +7,9 @@ Every October, Digital Ocean runs Hacktoberfest, a month-long celebration of ope
 Hacktoberfest 2023 returns to ZTM with three brand new projects for you to complete the challenge and earn your [digital reward](https://hacktoberfest.com/about/#digital-rewards) All you have to do to take part is:
 
 1. Sign up on the [Official Hacktoberfest Website](https://hacktoberfest.com/auth)
-2. Check out the [Aldo's Open Source Video Guide](https://www.youtube.com/watch?v=uQLNFRviB6Q) and the [Getting Started Repository](https://github.com/zero-to-mastery/start-here-guidelines)
+2. If you are new to making github contributions: check out the step-by-step [Aldo's Open Source Video Guide](https://www.youtube.com/watch?v=uQLNFRviB6Q) and the [Getting Started Repository](https://github.com/zero-to-mastery/start-here-guidelines)
 3. Make 4 **quality** pull requests to any **participating** public repository during the month of October (ZTM has 3 open source projects you can contribute to for Hacktoberfest)
-4. Start chatting with other ZTM students in the #hacktoberfest-2023 channel on our Discord
+4. Start chatting with other ZTM students about the projects in the #hacktoberfest-2023 channel on our Discord. Get help or help others!
 5. Have fun
 
 This year, the first 50,000 participants who successfully complete the challenge will have a tree planted in their name!
