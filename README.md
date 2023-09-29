@@ -58,7 +58,7 @@ ASCII art is a graphic design technique that uses computers for presentation. It
 
 The options are endless, and there is no wrong answer. This is all for fun, so try to customize the tool whichever way you think would be best, and let's see what we get at the end of the month! Enjoy!
 
-[Project Repo/Instructions](https://github.com/zero-to-mastery/ascii-art-2023)
+[Project Repo/Instructions](https://github.com/zero-to-mastery/ascii-art)
 
 ---
 
