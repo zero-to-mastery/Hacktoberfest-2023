@@ -13,6 +13,7 @@ Hacktoberfest 2023 returns to ZTM with three brand new projects for you to compl
 5. Have fun
 
 This year, the first 50,000 participants who successfully complete the challenge will have a tree planted in their name!
+
 You can find out more details about Hacktoberfest on their website, as well as track your progress throughout the month.
 
 # Zero To Mastery Hacktoberfest Projects
@@ -38,24 +39,24 @@ Introducing a brand new project to this year's ZTM's Hacktoberfest lineup:
 
 #### PROJECT INTRODUCTION
 
-This project is designed with simplicity in mind, serving as a versatile, language-agnostic backend template that welcomes developers of all skill levels. Whether you're a beginner looking to learn the ropes of backend development in your chosent language or a seasoned pro looking for an interesting challenge. 
+This project is designed with simplicity in mind, serving as a versatile, language-agnostic backend template that welcomes developers of all skill levels, whether you're a beginner looking to learn the ropes of backend development in your chosen language or a seasoned pro looking for an interesting challenge. 
 
-Everyone is highly encouraged to partipate in this project regardless of you knowledge, after all practice makes us all better developers!
+Everyone is highly encouraged to participate in this project, regardless of your knowledge. After all, practice makes us all better developers!
 
 [Project Repo/Instructions](https://github.com/zero-to-mastery/file-io)
 
 -----------
 #### [![ASCII ART](https://img.shields.io/badge/PYTHON%20PROJECT-ASCII%20ART-blue?style=for-the-badge&logo=Python)](https://github.com/zero-to-mastery/ascii-art)
 
-Welcome to this years Python challenge for Hacktoberfest, A project with beginners and aspiring developers in mind, utilizing Python to convert images into ASCII Art.
+Welcome to this year's Python challenge for Hacktoberfest, a project with beginners and aspiring developers in mind, utilizing Python to convert images into ASCII Art.
 
-ASCII art is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the 95 printable characters defined by the ASCII Standard from 1963 and ASCII compliant character sets with proprietary extended characters.
+ASCII art is a graphic design technique that uses computers for presentation. It consists of pictures pieced together from the 95 printable characters, defined by the ASCII Standard from 1963 and ASCII compliant character sets with proprietary extended characters.
 
 #### PROJECT INTRODUCTION
 
 > Let's see how we can evolve the ASCII generator with our ZTM community help!! Maybe we want to display this on an HTML web page where users can submit images and we convert it to ASCII art? Maybe we want to improve how the Command Line Tool works/make it more customizeable? Or maybe modify the script to do many other types of art beyond ASCII.
 
-The options are endless and there is no wrong answer. This is all for fun, so try to customize the tool whichever way you think would be best and let's see what we get at the end of the month! Enjoy!
+The options are endless, and there is no wrong answer. This is all for fun, so try to customize the tool whichever way you think would be best, and let's see what we get at the end of the month! Enjoy!
 
 [Project Repo/Instructions](https://github.com/zero-to-mastery/ascii-art-2023)
 
