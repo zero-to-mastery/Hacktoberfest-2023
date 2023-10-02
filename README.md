@@ -73,3 +73,19 @@ Simply speaking, your work is done. You can continue working and making pull req
 Meanwhile, Hacktoberfest keeps track of all your pull requests. And, as mentioned above, you'll be eligible to get the Hacktoberfest digital reward once you successfully make 4 pull requests.
 
 **Remember, you only need to make 4 pull requests to any of these open source projects in the month of October! Let's see if we can beat the record from last year!!**
+
+---
+
+# PARTICIPATING IN HACKTOBERFESTPARTICIPATING IN HACKTOBERFEST
+
+Here’s what you need to know to participate and complete Hacktoberfest:
+
+Register anytime between September 26 and October 31
+
+Pull requests can be made in any GitHub or GitLab hosted project that’s participating in Hacktoberfest (look for the “hacktoberfest” topic)
+
+Project maintainers must accept your pull/merge requests for them to count toward your total
+
+The first 50,000 participants to have their first PR/MR accepted will have a tree planted in their name through Tree Nation
+
+Participants with four pull/merge requests accepted between October 1 and October 31 will receive a unique digital reward
