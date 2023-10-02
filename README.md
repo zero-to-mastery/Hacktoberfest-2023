@@ -76,7 +76,7 @@ Meanwhile, Hacktoberfest keeps track of all your pull requests. And, as mentione
 
 ---
 
-# PARTICIPATING IN HACKTOBERFESTPARTICIPATING IN HACKTOBERFEST
+# PARTICIPATING IN HACKTOBERFEST - Guidelines & Perks
 
 Here’s what you need to know to participate and complete Hacktoberfest:
 
