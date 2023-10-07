@@ -1,0 +1,100 @@
+//Dynamic Implementation of STACK (LIFO)
+//Completed
+#include<stdio.h>
+#include<stdlib.h>
+struct STACK{
+	int data;
+	struct STACK *next;
+};	
+typedef struct STACK stack;
+void Init(stack *t);
+void PUSH(stack **t,int x);
+int POP(stack **t);
+int Size(stack *t);
+void Display(stack *t);
+void main()
+{
+	stack *t=NULL;
+	int ch;
+	int x;
+	Init(t);
+	printf("\nDynamic Implementaion of STACK");
+	do{
+	printf("\n\n*******MENU*******");
+	printf("\n1. Initialization\n2. PUSH\n3. POP\n4. Size\n5. Display\n9. Exit");
+	printf("\nGive your choice : ");
+	scanf("%d",&ch);
+	switch(ch)
+	{
+		case 1: printf("Initialising Top....");
+				Init(t);
+				printf("\nTop Initialised !!!!");
+				break;
+		case 2: printf("\nEnter the value to be PUSHed in the Stack : ");
+				scanf("%d",&x);
+				PUSH(&t,x);
+				break;
+		case 3: x=POP(&t);
+				if(x==-99)
+					printf("\nStack is Empty.");
+ 				else
+					printf("\n%d POPped out of the Stack.",x);
+				break;
+		case 4: printf("\nSize of Stack is %d.",Size(t));
+				break;
+		case 5: printf("\nDisplaying Stack elements :\n");
+				Display(t);
+				break;
+		case 9: printf("\nExiting....");
+				break;
+		default:printf("\nInvalid Choice.");
+			    break;
+	}
+	}while(ch!=9);
+}
+void Init(stack *t){
+	t=NULL;
+}
+void PUSH(stack **t,int x){
+	stack *temp;
+	temp=(stack*)malloc(sizeof(stack));
+	temp->data=x;
+	temp->next=NULL;
+	if(*t==NULL)
+		*t=temp;
+	else{
+		temp->next=*t;
+		*t=temp;
+	}
+	//return t;
+}
+int POP(stack **t){
+	if(*t==NULL)
+		return -99;
+	else{
+		stack *p;
+		int x;
+		p=*t;
+		*t=p->next;
+		x=p->data;
+		free(p);
+		return x;
+	}
+}
+int Size(stack *t){
+	stack *p;
+	int i;
+	for(p=t,i=0;p!=NULL;p=p->next,i++);
+	return i;
+}
+void Display(stack *t)
+{
+		if(t==NULL)
+			printf("\nStack is Empty.");
+		else{
+		stack *p;
+		printf("\nLinked List :\n");
+		for(p=t;p!=NULL;p=p->next)
+			printf("%d ",p->data);
+		}
+}
