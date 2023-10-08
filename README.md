@@ -1,6 +1,7 @@
 <img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--logomark.b91c17d2.svg" align="right" />
 
 # What is Hacktoberfest?
+[An image of @7597243's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/7597243)](https://holopin.io/@7597243)
 
 Every October, Digital Ocean runs Hacktoberfest, a month-long celebration of open-sourced software. Encouraging developers at all stages in their careers to participate in the open-source community. The event is open to everyone in the global community, no matter your skill level or background and it grows in size every year.
 
